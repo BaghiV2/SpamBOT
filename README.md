@@ -1,2 +1,2 @@
 # SpamBOT
-server spam bot
+              server spam bot
