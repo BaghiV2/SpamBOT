@@ -1,0 +1,2 @@
+# SpamBOT
+server spam bot
